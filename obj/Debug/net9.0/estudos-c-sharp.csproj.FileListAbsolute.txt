@@ -1,0 +1,17 @@
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.AssemblyInfoInputs.cache
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.AssemblyInfo.cs
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\golle\Source\Repos\estudos-c-sharp\bin\Debug\net9.0\estudos-c-sharp.exe
+C:\Users\golle\Source\Repos\estudos-c-sharp\bin\Debug\net9.0\estudos-c-sharp.deps.json
+C:\Users\golle\Source\Repos\estudos-c-sharp\bin\Debug\net9.0\estudos-c-sharp.runtimeconfig.json
+C:\Users\golle\Source\Repos\estudos-c-sharp\bin\Debug\net9.0\estudos-c-sharp.dll
+C:\Users\golle\Source\Repos\estudos-c-sharp\bin\Debug\net9.0\estudos-c-sharp.pdb
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.dll
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\refint\estudos-c-sharp.dll
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.pdb
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.genruntimeconfig.cache
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\ref\estudos-c-sharp.dll
+C:\Users\golle\Source\Repos\estudos-c-sharp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.csproj.AssemblyReference.cache
+C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-.14FED7BE.Up2Date
