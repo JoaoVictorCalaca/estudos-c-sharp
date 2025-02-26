@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("estudos-c-sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b130492eb132947aa4a369fbe783fbeac0338749")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2452f3b91381baffa4ebefcf40950dcd107f9dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("estudos-c-sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("estudos-c-sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
