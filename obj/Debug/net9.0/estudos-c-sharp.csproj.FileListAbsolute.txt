@@ -15,3 +15,4 @@ C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\ref\estudos-c-sharp
 C:\Users\golle\Source\Repos\estudos-c-sharp\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.csproj.AssemblyReference.cache
 C:\Users\golle\Source\Repos\estudos-c-sharp\obj\Debug\net9.0\estudos-.14FED7BE.Up2Date
+C:\Users\golle\source\repos\estudos-c-sharp\obj\Debug\net9.0\estudos-c-sharp.sourcelink.json

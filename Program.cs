@@ -2,7 +2,7 @@
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Newtonsoft.Json; // Biblioteca para manipular JSON
+using Newtonsoft.Json;
 
 class Program
 {
@@ -33,7 +33,6 @@ class Program
       var requestData = new
       {
         model = "llama3.2",
-        //instrução de papel para a IA
         prompt = $"{userPrompt}",
         stream = false,
       }
